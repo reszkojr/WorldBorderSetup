@@ -1,0 +1,9 @@
+name: WorldBorderSetup
+main: main.WorldBorderSetup
+version: 0.1
+author: Santres
+api-version: 1.16
+commands:
+  wbsetup:
+    description: Creates a World Border using the sender as the center.
+    usage: "/wbsetup [world border size]"
